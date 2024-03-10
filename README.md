@@ -1,6 +1,7 @@
 
-
-![Rihard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RihardsBobkovs&show_icons=true&theme=transparent)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RihardsBobkovs)](https://github.com/RihardsBobkovs/github-readme-stats)
+<a href="https://github.com/RihardsBobkovs/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RihardsBobkovs" />
+</a>
+<a href="https://github.com/RihardsBobkovs/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RihardsBobkovs&layout=compact&langs_count=8&card_width=320" />
+</a>
